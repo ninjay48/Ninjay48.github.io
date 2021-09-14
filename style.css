@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+p {
+  color: rgb(50,50,50);
+  background: rgb(200,150,225,0.2);
+  font-size: 25px;
+  padding:10px;
+}
