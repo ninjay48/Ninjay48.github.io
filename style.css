@@ -5,9 +5,32 @@ html, body {
 canvas {
   display: block;
 }
+
+h1 {
+  color: rgb(255,255,255)
+  
+}
+
 p {
-  color: rgb(50,50,50);
-  background: rgb(200,150,225,0.2);
+  color: rgb(230, 230, 230);
+  background: rgba(253, 1, 1, 0.5);
   font-size: 25px;
-  padding:10px;
+  padding:20px;
+}
+
+body {
+  background: url("https://c.tenor.com/x4kWAZADh_0AAAAC/when-the-money.gif");
+  background-size: 800px 1100px;
+  
+}
+
+div {
+background: url("https://static.wikia.nocookie.net/683d9377-a923-453d-821f-da0bc5635c9c");
+background-blend-mode: darken;
+background-size: 300
+}
+
+#kanye {
+  position: sticky;
+  top: 5px;
 }
